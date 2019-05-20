@@ -1,2 +1,0 @@
-# ScoreboardWithReactJS
-Created with CodeSandbox
